@@ -12,7 +12,7 @@ A web-based Java decompiler running entirely in your browser.
 
 ## Quick Start
 1. Visit the website
-2. Click "Choose File" to upload `.class` or `.jar`
+2. Click "Choose File" to upload `.jar`
 3. View decompiled source code instantly
 
 ## How It Works
