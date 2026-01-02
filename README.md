@@ -22,21 +22,6 @@ The tool runs entirely in your browser:
 3. Decompiles bytecode using CFR engine
 4. Displays syntax-highlighted Java code
 
-## Dependencies
-```html
-<!-- CFR Decompiler -->
-<script src="https://cdn.jsdelivr.net/npm/@run-slicer/cfr/cfr.js"></script>
-
-<!-- File Processing -->
-<script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
-
-<!-- Code Highlighting -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/atom-one-dark.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/java.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlightjs-line-numbers.js/2.8.0/highlightjs-line-numbers.min.js"></script>
-```
-
 ## Usage Examples
 - Analyze third-party libraries
 - Learn Java bytecode structure
